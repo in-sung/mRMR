@@ -31,5 +31,3 @@ fset <- function(MI,X,Y,m){
   }
   return(x_s)
 }
-
-fset(mutinfo_mix,plantDAE8[,2:218],plantDAE8$Silique,7)
