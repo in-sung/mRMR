@@ -1,4 +1,5 @@
-# Feature Selection based on Mutual Information
+# mRMR
+## Feature Selection based on Mutual Information
 ## mRMR.R
 mRMR방법을 이용하여 feature selection한다
 
