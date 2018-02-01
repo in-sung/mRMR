@@ -1,5 +1,7 @@
 KDE_MI <- function(x,y)
 {
+  #kernel density estimation
+  #gaussian kernel function
   n <- length(x)
   sigma_x <- sd(x)
   h_x <- 1.06*sigma_x*n^(-1/5)
